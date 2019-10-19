@@ -1,0 +1,23 @@
+{
+  "cities": [
+    { "id": 26, "building": "Main Building" },
+    { "id": 32, "building": "Residence" },
+    { "id": 39, "building": "Rally Point" },
+    { "id": 40, "building": "City Wall" },
+    { "id": 19, "building": "Warehouse" },
+    { "id": 23, "building": "Granary" },
+    { "id": 34, "building": "Grain Mill" },
+    { "id": 27, "building": "Bakery" },
+    { "id": 37, "building": "Brickworks" },
+    { "id": 35, "building": "Iron Foundry" },
+    { "id": 38, "building": "Sawmill" },
+    { "id": 30, "building": "Barracks" },
+    { "id": 20, "building": "Academy" },
+    { "id": 22, "building": "Smithy" },
+    { "id": 21, "building": "Town Hall" },
+    { "id": 31, "building": "Stable" },
+    { "id": 24, "building": "Warehouse" },
+    { "id": 25, "building": "Granary" },
+    { "id": 36, "building": "Marketplace" }
+  ]
+}

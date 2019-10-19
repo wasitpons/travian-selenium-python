@@ -1,0 +1,14 @@
+{
+  "Romans": {
+    "Legionnaire": "t1",
+    "Praetorian": "t2",
+    "Imperian": "t3",
+    "Equites Legati": "t4",
+    "Equites Imperatoris": "t5",
+    "Equites Caesaris": "t6"
+  },
+  "Egyptians": {
+    "Ash Warden": "t52",
+    "Anhur Guard": "t55"
+  }
+}
